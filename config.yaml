@@ -1,0 +1,3 @@
+aes_mode: GCM
+ascii: false
+bcrypt_cost: 12

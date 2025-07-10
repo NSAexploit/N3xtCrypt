@@ -1,0 +1,10 @@
+cryptography
+pycryptodome
+bcrypt
+pyqt5
+keyring
+pyyaml
+flask
+reportlab
+argon2-cffi
+base58
