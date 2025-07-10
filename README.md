@@ -1,3 +1,5 @@
+Createur : Matteu Olivieri Bastiani
+
 Bienvenue dans N3xtCrypt,
 l’outil ultime de chiffrement des données et communications.
 
